@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.kotak{
+    height: 200px;
+    width: 100px;
+    border: 1px solid ;
+}
+.kuning{
+    height: 200px;
+    width: 100px;
+    background-color: yellow;
+    border: 1px solid;
+}
+.oren{
+    height: 200px;
+    width: 100px;
+    background-color: orange;
+    border: 1px solid;
+}
+.hijau{
+    height: 200px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 1px solid;
+}
+.biru{
+    height: 200px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px solid;
+}

@@ -1,0 +1,47 @@
+.kuning{
+    background-color: yellow;
+    height: 50px;
+    width: 160px;
+    margin-bottom: 10px;
+    border: 1px solid ;
+}
+.oren{
+    background-color: orange;
+    height: 50px;
+    width: 500px;
+    border: 1px solid ;
+    margin-bottom: 10px;
+}
+.hijau{
+    height: 200px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 1px solid;
+}
+.abu-abu{
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    border: 1px solid;
+}
+.biru{
+    height: 200px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+.bawah{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    border: 1px solid;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+}
